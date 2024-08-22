@@ -58,6 +58,7 @@ disabled_rules:
     - trailing_closure
     - unused_capture_list
     - vertical_whitespace_opening_braces
+    - static_over_final_class
 
 custom_rules:
     implicit_localized_string_key:
