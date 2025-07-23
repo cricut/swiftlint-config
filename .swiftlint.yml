@@ -56,7 +56,6 @@ disabled_rules:
     - type_body_length
     - type_name
     - trailing_closure
-    - unused_capture_list
     - vertical_whitespace_opening_braces
     - static_over_final_class
 
